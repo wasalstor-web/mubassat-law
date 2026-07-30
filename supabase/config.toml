@@ -1,0 +1,5 @@
+# Safe to commit: no credentials are stored in this file.
+project_id = "mubassat-law"
+
+[remotes.production]
+project_id = "bzkjxxptdfpqmuwoxtjp"
